@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/settings_outer_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/mushaf_background"
+    android:orientation="vertical"
+    android:padding="20sp" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical" >
+
+        <!-- LANGUAGE -->
+
+        <TextView
+            android:id="@+id/settings_translation_text_view"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="TRANSLATION"
+            android:textSize="@dimen/setting_font_size" />
+
+        <View
+            android:id="@+id/settings_view_dark_1"
+            android:layout_width="fill_parent"
+            android:layout_height="@dimen/setting_new_line_size"
+            android:background="@color/gray" />
+
+        <!-- Translation View -->
+
+        <TextView
+            android:id="@+id/settings_translation_language"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:clickable="true"
+            android:onClick="myClickListener"
+            android:paddingBottom="@dimen/settings_margin_bottom"
+            android:paddingTop="@dimen/settings_margin_bottom"
+            android:text="Language"
+            android:textSize="@dimen/setting_font_size" />
+
+        <View
+            android:id="@+id/settings_view_light_1"
+            android:layout_width="fill_parent"
+            android:layout_height="@dimen/setting_new_line_lighter_size"
+            android:background="@color/setting_new_line_colour" />
+
+        <!-- Show Translation Icon -->
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:id="@+id/settings_show_translation_text_view"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:clickable="true"
+                android:onClick="myClickListener"
+                android:paddingBottom="@dimen/settings_margin_bottom"
+                android:paddingTop="@dimen/settings_margin_bottom"
+                android:text="Show Translation"
+                android:textSize="@dimen/setting_font_size" />
+
+            <CheckBox
+                android:id="@+id/settings_show_translation"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="5"
+                android:button="@null"
+                android:drawableRight="?android:attr/listChoiceIndicatorMultiple"
+                android:onClick="myClickListener" />
+        </LinearLayout>
+
+        <!-- APPEARANCE BOx -->
+
+        <TextView
+            android:id="@+id/settings_appearance_text_view"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/settings_margin_bottom"
+            android:text="APPEARANCE"
+            android:textSize="@dimen/setting_font_size" />
+
+        <View
+            android:id="@+id/settings_view_dark2"
+            android:layout_width="fill_parent"
+            android:layout_height="@dimen/setting_new_line_size"
+            android:background="@color/gray" />
+
+        <!-- Theme -->
+
+        <TextView
+            android:id="@+id/settings_theme"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:clickable="true"
+            android:onClick="myClickListener"
+            android:paddingBottom="@dimen/settings_margin_bottom"
+            android:paddingTop="@dimen/settings_margin_bottom"
+            android:text="Theme"
+            android:textSize="@dimen/setting_font_size" />
+
+        <View
+            android:id="@+id/settings_view_light2"
+            android:layout_width="fill_parent"
+            android:layout_height="@dimen/setting_new_line_lighter_size"
+            android:background="@color/setting_new_line_colour" />
+
+        <!-- Arabic Font -->
+
+
+        <!-- <TextView -->
+        <!-- android:id="@+id/settings_arabic_font" -->
+        <!-- android:layout_width="fill_parent" -->
+        <!-- android:layout_height="wrap_content" -->
+        <!-- android:clickable="true" -->
+        <!-- android:onClick="myClickListener" -->
+        <!-- android:paddingBottom="@dimen/settings_margin_bottom" -->
+        <!-- android:paddingTop="@dimen/settings_margin_bottom" -->
+        <!-- android:text="Arabic Font" -->
+        <!-- android:textSize="@dimen/setting_font_size" /> -->
+
+
+        <!-- <View -->
+        <!-- android:layout_width="fill_parent" -->
+        <!-- android:layout_height="@dimen/setting_new_line_lighter_size" -->
+        <!-- android:background="@color/setting_new_line_colour" /> -->
+
+
+        <!-- Arabic Font Size -->
+
+        <TextView
+            android:id="@+id/settings_arabic_font_size"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:clickable="true"
+            android:onClick="myClickListener"
+            android:paddingBottom="@dimen/settings_margin_bottom"
+            android:paddingTop="@dimen/settings_margin_bottom"
+            android:text="Arabic Font Size"
+            android:textSize="@dimen/setting_font_size" />
+
+        <View
+            android:id="@+id/settings_view_light_3"
+            android:layout_width="fill_parent"
+            android:layout_height="@dimen/setting_new_line_lighter_size"
+            android:background="@color/setting_new_line_colour" />
+
+        <!-- Translation Font Size -->
+
+        <TextView
+            android:id="@+id/settings_translation_font_size"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:clickable="true"
+            android:onClick="myClickListener"
+            android:paddingBottom="@dimen/settings_margin_bottom"
+            android:paddingTop="@dimen/settings_margin_bottom"
+            android:text="Translation Font Size"
+            android:textSize="@dimen/setting_font_size" />
+
+        <!-- Other -->
+
+        <TextView
+            android:id="@+id/settings_other_text_view"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="OTHER"
+            android:textSize="@dimen/setting_font_size" />
+
+        <View
+            android:id="@+id/settings_view_dark_3"
+            android:layout_width="fill_parent"
+            android:layout_height="@dimen/setting_new_line_size"
+            android:background="@color/gray" />
+
+        <TextView
+            android:id="@+id/settings__storage_location"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:clickable="true"
+            android:onClick="myClickListener"
+            android:paddingBottom="@dimen/settings_margin_bottom"
+            android:paddingTop="@dimen/settings_margin_bottom"
+            android:text="Storage Option"
+            android:textSize="@dimen/setting_font_size" />
+
+        <View
+            android:id="@+id/settings_view_light_4"
+            android:layout_width="fill_parent"
+            android:layout_height="@dimen/setting_new_line_lighter_size"
+            android:background="@color/setting_new_line_colour" />
+
+        <!-- Keep Screen On -->
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:id="@+id/settings_keep_screen_on_textView"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:clickable="true"
+                android:onClick="myClickListener"
+                android:paddingBottom="@dimen/settings_margin_bottom"
+                android:paddingTop="@dimen/settings_margin_bottom"
+                android:text="Keep Screen On"
+                android:textSize="@dimen/setting_font_size" />
+
+            <CheckBox
+                android:id="@+id/settings_keep_screen_on"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="8"
+                android:button="@null"
+                android:drawableRight="?android:attr/listChoiceIndicatorMultiple"
+                android:onClick="myClickListener" />
+        </LinearLayout>
+    </LinearLayout>
+
+</ScrollView>

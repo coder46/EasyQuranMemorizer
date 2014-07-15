@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:id="@+id/media_player_outer_scroll_view"
+    android:layout_height="match_parent"
+    android:background="@drawable/mushaf_background"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="10sp" >
+
+        <TextView
+            android:id="@+id/media_player_heading"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginBottom="20sp"
+            android:gravity="center"
+            android:text="Al Fatiha \n(The opening )"
+            android:textSize="25sp" />
+
+        <View
+            android:id="@+id/media_player_view"
+            android:layout_width="fill_parent"
+            android:layout_height="1dp"
+            android:layout_marginBottom="40sp"
+            android:background="@android:color/black" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5sp"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:id="@+id/media_player_select_reciter_text_view"
+                android:layout_width="0dip"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginRight="20sp"
+                android:layout_weight="1"
+                android:gravity="right"
+                android:text="Select Reciter"
+                android:textAlignment="textEnd" />
+
+            <Spinner
+                android:id="@+id/media_player_author_list"
+                android:layout_width="0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight="1" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="20sp"
+            android:layout_marginTop="20sp"
+            android:orientation="horizontal" >
+
+            <Spinner
+                android:id="@+id/media_player_start_verse_spinner"
+                android:layout_width="0dip"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="20sp"
+                android:layout_weight="1" />
+
+            <Spinner
+                android:id="@+id/media_player_end_verse_spinner"
+                android:layout_width="0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight="1" />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/media_player_text_view"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/text_border_white"
+            android:lineSpacingMultiplier="1.5"
+            android:layout_marginBottom="@dimen/settings_margin_bottom"
+            android:text="Please help me out of this man"
+            android:textSize="40sp" />
+        <TextView
+            android:id="@+id/media_player_translation_view"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/text_border_white"
+            android:lineSpacingMultiplier="1.5"
+            android:text="Please help me out of this man"
+            android:textSize="40sp" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="20sp"
+            android:layout_marginTop="20sp"
+            android:orientation="horizontal" >
+
+            <SeekBar
+                android:id="@+id/media_player_seek"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+
+            <ImageButton
+                android:id="@+id/media_player_prev"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_marginRight="5dp"
+                android:layout_weight="1"
+                android:background="@drawable/button_border"
+                android:onClick="myClickListener"
+                android:src="@android:drawable/ic_media_previous" />
+
+            <ImageButton
+                android:id="@+id/media_player_play"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_marginRight="5dp"
+                android:layout_weight="1"
+                android:background="@drawable/button_border"
+                android:onClick="myClickListener"
+                android:src="@android:drawable/ic_media_play" />
+
+            <ImageButton
+                android:id="@+id/media_player_next"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_marginRight="5dp"
+                android:layout_weight="1"
+                android:background="@drawable/button_border"
+                android:onClick="myClickListener"
+                android:src="@android:drawable/ic_media_next" />
+
+            <ImageButton
+                android:id="@+id/media_player_restart"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_marginRight="5dp"
+                android:layout_weight="1"
+                android:background="@drawable/button_border"
+                android:onClick="myClickListener"
+                android:src="@drawable/ic_action_refresh" />
+
+            <ImageButton
+                android:id="@+id/media_player_repeat"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_weight="1"
+                android:background="@drawable/button_border"
+                android:onClick="myClickListener"
+                android:src="@drawable/ic_action_repeat" />
+        </LinearLayout>
+    </LinearLayout>
+
+</ScrollView>

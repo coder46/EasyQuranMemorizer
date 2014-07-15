@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="settings_margin_bottom">20sp</dimen>
+    <dimen name="setting_font_size">17sp</dimen>
+    <dimen name="setting_new_line_size">2sp</dimen>
+    <dimen name="setting_new_line_lighter_size">1sp</dimen>
+
+</resources>

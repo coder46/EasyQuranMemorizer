@@ -1,0 +1,687 @@
+<?xml version="1.0"?>
+<quran>
+	<surah>
+		<surahName>Al-Fatiha</surahName>
+		<verseCount>7</verseCount>
+		<englishName>The Opening</englishName>
+		<type>Meccan</type>
+	</surah>
+	<surah>
+		<surahName>Al-Baqara</surahName>
+		<verseCount>286</verseCount>
+		<englishName>The Calf, The Cow</englishName>
+		<type>Medinan</type>
+	</surah>
+	<surah>
+		<surahName>Al Imran</surahName>
+		<verseCount>200</verseCount>
+		<englishName>The Family of Imran, The House of 'Imrán</englishName>
+		<type>Medinan</type>
+	</surah>
+	<surah>
+		<surahName>An-Nisa</surahName>
+		<verseCount>176</verseCount>
+		<englishName>The Women</englishName>
+		<type>Medinan</type>
+	</surah>
+	<surah>
+		<surahName>Al-Ma'ida</surahName>
+		<verseCount>120</verseCount>
+		<englishName>The Food, The Repast</englishName>
+		<type>Medinan</type>
+	</surah>
+	<surah>
+		<surahName>Al-An'am</surahName>
+		<verseCount>165</verseCount>
+		<englishName>The Cattle</englishName>
+		<type>Meccan</type>
+	</surah>
+	<surah>
+		<surahName>Al-A'raf</surahName>
+		<verseCount>206</verseCount>
+		<englishName>The Heights, The Faculty of Discernment</englishName>
+		<type>Meccan</type>
+	</surah>
+	<surah>
+		<surahName>Al-Anfal</surahName>
+		<verseCount>75</verseCount>
+		<englishName>The Spoils of War</englishName>
+		<type>Medinan</type>
+	</surah>
+	<surah>
+		<surahName>At-Tawba</surahName>
+		<verseCount>129</verseCount>
+		<englishName>The Repentance</englishName>
+		<type>Medinan</type>
+	</surah>
+	<surah>
+		<surahName>Yunus</surahName>
+		<verseCount>109</verseCount>
+		<englishName>Jonah</englishName>
+		<type>Meccan</type>
+	</surah>
+	<surah>
+		<surahName>Hud</surahName>
+		<verseCount>123</verseCount>
+		<englishName>Hud</englishName>
+		<type>Meccan</type>
+	</surah>
+	<surah>
+		<surahName>Yusuf</surahName>
+		<verseCount>111</verseCount>
+		<englishName>Joseph</englishName>
+		<type>Meccan</type>
+	</surah>
+	<surah>
+		<surahName>Ar-Ra'd</surahName>
+		<verseCount>43</verseCount>
+		<englishName>The Thunder</englishName>
+		<type>Medinan</type>
+	</surah>
+	<surah>
+		<surahName>Ibrahim</surahName>
+		<verseCount>52</verseCount>
+		<englishName>Abraham</englishName>
+		<type>Meccan</type>
+	</surah>
+	<surah>
+		<surahName>Al-Hijr</surahName>
+		<verseCount>99</verseCount>
+		<englishName>The Rocky Tract, The Stoneland, The Rock City, Al-Hijr</englishName>
+		<type>Meccan</type>
+	</surah>
+	<surah>
+		<surahName>An-Nahl</surahName>
+		<verseCount>128</verseCount>
+		<englishName>The Honey Bees, The Bee</englishName>
+		<type>Meccan</type>
+	</surah>
+	<surah>
+		<surahName>Al-Isra</surahName>
+		<verseCount>111</verseCount>
+		<englishName>The Night Journey</englishName>
+		<type>Meccan</type>
+	</surah>
+	<surah>
+		<surahName>Al-Kahf</surahName>
+		<verseCount>110</verseCount>
+		<englishName>The Cave</englishName>
+		<type>Meccan</type>
+	</surah>
+	<surah>
+		<surahName>Maryam</surahName>
+		<verseCount>98</verseCount>
+		<englishName>Mary</englishName>
+		<type>Meccan</type>
+	</surah>
+	<surah>
+		<surahName>Ta-Ha</surahName>
+		<verseCount>135</verseCount>
+		<englishName>Ta-Ha, O Man</englishName>
+		<type>Meccan</type>
+	</surah>
+	<surah>
+		<surahName>Al-Anbiya</surahName>
+		<verseCount>112</verseCount>
+		<englishName>The Prophets</englishName>
+		<type>Meccan</type>
+	</surah>
+	<surah>
+		<surahName>Al-Hajj</surahName>
+		<verseCount>78</verseCount>
+		<englishName>The Pilgrimage</englishName>
+		<type>Medinan</type>
+	</surah>
+	<surah>
+		<surahName>Al-Mu'minoon</surahName>
+		<verseCount>118</verseCount>
+		<englishName>The Believers</englishName>
+		<type>Meccan</type>
+	</surah>
+	<surah>
+		<surahName>An-Nur</surahName>
+		<verseCount>64</verseCount>
+		<englishName>The Light</englishName>
+		<type>Medinan</type>
+	</surah>
+	<surah>
+		<surahName>Al-Furqan</surahName>
+		<verseCount>77</verseCount>
+		<englishName>The Criterion, The Standard, The Standard of True and False</englishName>
+		<type>Meccan</type>
+	</surah>
+	<surah>
+		<surahName>Ash-Shu'ara</surahName>
+		<verseCount>227</verseCount>
+		<englishName>The Poets</englishName>
+		<type>Meccan</type>
+	</surah>
+	<surah>
+		<surahName>An-Naml</surahName>
+		<verseCount>93</verseCount>
+		<englishName>The Ant, The Ants</englishName>
+		<type>Meccan</type>
+	</surah>
+	<surah>
+		<surahName>Al-Qasas</surahName>
+		<verseCount>88</verseCount>
+		<englishName>The Narrations, The Stories, The Story</englishName>
+		<type>Meccan</type>
+	</surah>
+	<surah>
+		<surahName>Al-Ankabut</surahName>
+		<verseCount>69</verseCount>
+		<englishName>The Spider</englishName>
+		<type>Meccan</type>
+	</surah>
+	<surah>
+		<surahName>Ar-Rum</surahName>
+		<verseCount>60</verseCount>
+		<englishName>The Romans, The Byzantines</englishName>
+		<type>Meccan</type>
+	</surah>
+	<surah>
+		<surahName>Luqman</surahName>
+		<verseCount>34</verseCount>
+		<englishName>Luqman</englishName>
+		<type>Meccan</type>
+	</surah>
+	<surah>
+		<surahName>As-Sajda</surahName>
+		<verseCount>30</verseCount>
+		<englishName>The Prostration, Worship, Adoration</englishName>
+		<type>Meccan</type>
+	</surah>
+	<surah>
+		<surahName>Al-Ahzab</surahName>
+		<verseCount>73</verseCount>
+		<englishName>The Clans, The Confederates, The Combined Forces</englishName>
+		<type>Medinan</type>
+	</surah>
+	<surah>
+		<surahName>Saba</surahName>
+		<verseCount>54</verseCount>
+		<englishName>Sheba</englishName>
+		<type>Meccan</type>
+	</surah>
+	<surah>
+		<surahName>Fatir</surahName>
+		<verseCount>45</verseCount>
+		<englishName>The Originator</englishName>
+		<type>Meccan</type>
+	</surah>
+	<surah>
+		<surahName>Ya Sin</surahName>
+		<verseCount>83</verseCount>
+		<englishName>Ya Sin, O Thou Human Being</englishName>
+		<type>Meccan</type>
+	</surah>
+	<surah>
+		<surahName>As-Saaffat</surahName>
+		<verseCount>182</verseCount>
+		<englishName>Those Who Set The Ranks, Drawn Up In Ranks, Those Ranged in Ranks</englishName>
+		<type>Meccan</type>
+	</surah>
+	<surah>
+		<surahName>Sad</surahName>
+		<verseCount>88</verseCount>
+		<englishName>Sad</englishName>
+		<type>Meccan</type>
+	</surah>
+	<surah>
+		<surahName>Az-Zumar</surahName>
+		<verseCount>75</verseCount>
+		<englishName>The Crowds, The Troops, Throngs</englishName>
+		<type>Meccan</type>
+	</surah>
+	<surah>
+		<surahName>Ghafir</surahName>
+		<verseCount>85</verseCount>
+		<englishName>The Forgiver (God), Forgiving</englishName>
+		<type>Meccan</type>
+	</surah>
+	<surah>
+		<surahName>Fussilat</surahName>
+		<verseCount>54</verseCount>
+		<englishName>Expounded, Explained In Detail, Clearly Spelled Out</englishName>
+		<type>Meccan</type>
+	</surah>
+	<surah>
+		<surahName>Ash-Shura</surahName>
+		<verseCount>53</verseCount>
+		<englishName>The Consultation</englishName>
+		<type>Meccan</type>
+	</surah>
+	<surah>
+		<surahName>Az-Zukhruf</surahName>
+		<verseCount>89</verseCount>
+		<englishName>The Gold Adornments, The Ornaments of Gold, Luxury, Gold</englishName>
+		<type>Meccan</type>
+	</surah>
+	<surah>
+		<surahName>Ad-Dukhan</surahName>
+		<verseCount>59</verseCount>
+		<englishName>The Smoke</englishName>
+		<type>Meccan</type>
+	</surah>
+	<surah>
+		<surahName>Al-Jathiya</surahName>
+		<verseCount>37</verseCount>
+		<englishName>The Kneeling Down, Crouching</englishName>
+		<type>Meccan</type>
+	</surah>
+	<surah>
+		<surahName>Al-Ahqaf</surahName>
+		<verseCount>35</verseCount>
+		<englishName>Winding Sand-tracts, The Dunes, The Sand-Dunes</englishName>
+		<type>Meccan</type>
+	</surah>
+	<surah>
+		<surahName>Muhammad</surahName>
+		<verseCount>38</verseCount>
+		<englishName>Muhammad</englishName>
+		<type>Medinan</type>
+	</surah>
+	<surah>
+		<surahName>Al-Fath</surahName>
+		<verseCount>29</verseCount>
+		<englishName>The Victory, Conquest</englishName>
+		<type>Medinan</type>
+	</surah>
+	<surah>
+		<surahName>Al-Hujurat</surahName>
+		<verseCount>18</verseCount>
+		<englishName>The Private Apartments, The Inner Apartments</englishName>
+		<type>Medinan</type>
+	</surah>
+	<surah>
+		<surahName>Qaf</surahName>
+		<verseCount>45</verseCount>
+		<englishName>Qaf</englishName>
+		<type>Meccan</type>
+	</surah>
+	<surah>
+		<surahName>Adh-Dhariyat</surahName>
+		<verseCount>60</verseCount>
+		<englishName>The Wind That Scatter, The Winnowing Winds, The Dust-Scattering Winds</englishName>
+		<type>Meccan</type>
+	</surah>
+	<surah>
+		<surahName>At-Tur</surahName>
+		<verseCount>49</verseCount>
+		<englishName>The Mount, Mount Sinai</englishName>
+		<type>Meccan</type>
+	</surah>
+	<surah>
+		<surahName>An-Najm</surahName>
+		<verseCount>62</verseCount>
+		<englishName>The Star, The Unfolding</englishName>
+		<type>Meccan</type>
+	</surah>
+	<surah>
+		<surahName>Al-Qamar</surahName>
+		<verseCount>55</verseCount>
+		<englishName>The Moon</englishName>
+		<type>Meccan</type>
+	</surah>
+	<surah>
+		<surahName>Ar-Rahman</surahName>
+		<verseCount>78</verseCount>
+		<englishName>The Most Merciful, The Most Gracious</englishName>
+		<type>Medinan</type>
+	</surah>
+	<surah>
+		<surahName>Al-Waqi'a</surahName>
+		<verseCount>96</verseCount>
+		<englishName>The Inevitable, The Event, That Which Must Come to Pass</englishName>
+		<type>Meccan</type>
+	</surah>
+	<surah>
+		<surahName>Al-Hadid</surahName>
+		<verseCount>29</verseCount>
+		<englishName>The Iron</englishName>
+		<type>Medinan</type>
+	</surah>
+	<surah>
+		<surahName>Al-Mujadila</surahName>
+		<verseCount>22</verseCount>
+		<englishName>The Pleading, The Pleading Woman</englishName>
+		<type>Medinan</type>
+	</surah>
+	<surah>
+		<surahName>Al-Hashr</surahName>
+		<verseCount>24</verseCount>
+		<englishName>The Mustering, The Gathering, Exile, Banishment</englishName>
+		<type>Medinan</type>
+	</surah>
+	<surah>
+		<surahName>Al-Mumtahina</surahName>
+		<verseCount>13</verseCount>
+		<englishName>The Examined One, She That Is To Be Examined</englishName>
+		<type>Medinan</type>
+	</surah>
+	<surah>
+		<surahName>As-Saff</surahName>
+		<verseCount>14</verseCount>
+		<englishName>The Ranks, Battle Array</englishName>
+		<type>Medinan</type>
+	</surah>
+	<surah>
+		<surahName>Al-Jumua</surahName>
+		<verseCount>11</verseCount>
+		<englishName>The Congregation, Friday</englishName>
+		<type>Medinan</type>
+	</surah>
+	<surah>
+		<surahName>Al-Munafiqun</surahName>
+		<verseCount>11</verseCount>
+		<englishName>The Hypocrites</englishName>
+		<type>Medinan</type>
+	</surah>
+	<surah>
+		<surahName>At-Taghabun</surahName>
+		<verseCount>18</verseCount>
+		<englishName>The Cheating, The Mutual Disillusion, The Mutual Loss and Gain, Loss and Gain</englishName>
+		<type>Medinan</type>
+	</surah>
+	<surah>
+		<surahName>At-Talaq</surahName>
+		<verseCount>12</verseCount>
+		<englishName>Divorce</englishName>
+		<type>Medinan</type>
+	</surah>
+	<surah>
+		<surahName>At-Tahrim</surahName>
+		<verseCount>12</verseCount>
+		<englishName>The Prohibition</englishName>
+		<type>Medinan</type>
+	</surah>
+	<surah>
+		<surahName>Al-Mulk</surahName>
+		<verseCount>30</verseCount>
+		<englishName>The Dominion, Sovereignty, Control</englishName>
+		<type>Meccan</type>
+	</surah>
+	<surah>
+		<surahName>Al-Qalam</surahName>
+		<verseCount>52</verseCount>
+		<englishName>The Pen</englishName>
+		<type>Meccan</type>
+	</surah>
+	<surah>
+		<surahName>Al-Haaqqa</surahName>
+		<verseCount>52</verseCount>
+		<englishName>The Sure Reality, The Laying-Bare of the Truth</englishName>
+		<type>Meccan</type>
+	</surah>
+	<surah>
+		<surahName>Al-Maarij</surahName>
+		<verseCount>44</verseCount>
+		<englishName>The Ways of Ascent, The Ascending Stairways</englishName>
+		<type>Meccan</type>
+	</surah>
+	<surah>
+		<surahName>Nuh</surahName>
+		<verseCount>28</verseCount>
+		<englishName>Noah</englishName>
+		<type>Meccan</type>
+	</surah>
+	<surah>
+		<surahName>Al-Jinn</surahName>
+		<verseCount>28</verseCount>
+		<englishName>The Spirits, The Unseen Beings</englishName>
+		<type>Meccan</type>
+	</surah>
+	<surah>
+		<surahName>Al-Muzzammil</surahName>
+		<verseCount>20</verseCount>
+		<englishName>The Enfolded One, The Enshrouded One, Bundled Up, The Enwrapped One</englishName>
+		<type>Meccan</type>
+	</surah>
+	<surah>
+		<surahName>Al-Muddathir</surahName>
+		<verseCount>56</verseCount>
+		<englishName>The One Wrapped Up, The Cloaked One, The Man Wearing A Cloak, The Enfolded One</englishName>
+		<type>Meccan</type>
+	</surah>
+	<surah>
+		<surahName>Al-Qiyama</surahName>
+		<verseCount>40</verseCount>
+		<englishName>Resurrection, The Day of Resurrection, Rising Of The Dead</englishName>
+		<type>Meccan</type>
+	</surah>
+	<surah>
+		<surahName>Al-Insan</surahName>
+		<verseCount>31</verseCount>
+		<englishName>The Human, Man</englishName>
+		<type>Medinan</type>
+	</surah>
+	<surah>
+		<surahName>Al-Mursalat</surahName>
+		<verseCount>50</verseCount>
+		<englishName>Those Sent Forth, The Emissaries, Winds Sent Forth</englishName>
+		<type>Meccan</type>
+	</surah>
+	<surah>
+		<surahName>An-Naba</surahName>
+		<verseCount>40</verseCount>
+		<englishName>The Great News, The Announcement, The Tiding</englishName>
+		<type>Meccan</type>
+	</surah>
+	<surah>
+		<surahName>An-Naziat</surahName>
+		<verseCount>46</verseCount>
+		<englishName>Those Who Tear Out, Those Who Drag Forth, Soul-snatchers, Those That Rise</englishName>
+		<type>Meccan</type>
+	</surah>
+	<surah>
+		<surahName>Abasa</surahName>
+		<verseCount>42</verseCount>
+		<englishName>He Frowned</englishName>
+		<type>Meccan</type>
+	</surah>
+	<surah>
+		<surahName>At-Takwir</surahName>
+		<verseCount>29</verseCount>
+		<englishName>The Folding Up, The Overthrowing, Shrouding in Darkness</englishName>
+		<type>Meccan</type>
+	</surah>
+	<surah>
+		<surahName>Al-Infitar</surahName>
+		<verseCount>19</verseCount>
+		<englishName>The Cleaving Asunder, Bursting Apart</englishName>
+		<type>Meccan</type>
+	</surah>
+	<surah>
+		<surahName>Al-Mutaffifin</surahName>
+		<verseCount>36</verseCount>
+		<englishName>The Dealers in Fraud, Defrauding, The Cheats, Those Who Give Short Measure</englishName>
+		<type>Meccan</type>
+	</surah>
+	<surah>
+		<surahName>Al-Inshiqaq</surahName>
+		<verseCount>25</verseCount>
+		<englishName>The Rending Asunder, The Sundering, Splitting Open, The Splitting Asunder</englishName>
+		<type>Meccan</type>
+	</surah>
+	<surah>
+		<surahName>Al-Burooj</surahName>
+		<verseCount>22</verseCount>
+		<englishName>The Mansions Of The Stars, Constellations, The Great Constellations</englishName>
+		<type>Meccan</type>
+	</surah>
+	<surah>
+		<surahName>At-Tariq</surahName>
+		<verseCount>17</verseCount>
+		<englishName>The Night-Visitant, The Morning Star, The Nightcomer, That Which Comes in the Night</englishName>
+		<type>Meccan</type>
+	</surah>
+	<surah>
+		<surahName>Al-Ala</surahName>
+		<verseCount>19</verseCount>
+		<englishName>The Most High, The All-Highest, Glory To Your Lord In The Highest</englishName>
+		<type>Meccan</type>
+	</surah>
+	<surah>
+		<surahName>Al-Ghashiya</surahName>
+		<verseCount>26</verseCount>
+		<englishName>The Overwhelming Event, The Overshadowing Event, The Pall</englishName>
+		<type>Meccan</type>
+	</surah>
+	<surah>
+		<surahName>Al-Fajr</surahName>
+		<verseCount>30</verseCount>
+		<englishName>The Break of Day, The Daybreak, The Dawn</englishName>
+		<type>Meccan</type>
+	</surah>
+	<surah>
+		<surahName>Al-Balad</surahName>
+		<verseCount>20</verseCount>
+		<englishName>The City, The Land</englishName>
+		<type>Meccan</type>
+	</surah>
+	<surah>
+		<surahName>Ash-Shams</surahName>
+		<verseCount>15</verseCount>
+		<englishName>The Sun</englishName>
+		<type>Meccan</type>
+	</surah>
+	<surah>
+		<surahName>Al-Lail</surahName>
+		<verseCount>21</verseCount>
+		<englishName>The Night</englishName>
+		<type>Meccan</type>
+	</surah>
+	<surah>
+		<surahName>Ad-Dhuha</surahName>
+		<verseCount>11</verseCount>
+		<englishName>The Glorious Morning Light, The Forenoon, Morning Hours, Morning Bright, The Bright Morning Hours</englishName>
+		<type>Meccan</type>
+	</surah>
+	<surah>
+		<surahName>Al-Inshirah</surahName>
+		<verseCount>8</verseCount>
+		<englishName>The Expansion of Breast, Solace, Consolation, Relief, Patient, The Opening-Up of the Heart</englishName>
+		<type>Meccan</type>
+	</surah>
+	<surah>
+		<surahName>At-Tin</surahName>
+		<verseCount>8</verseCount>
+		<englishName>The Fig Tree, The Fig</englishName>
+		<type>Meccan</type>
+	</surah>
+	<surah>
+		<surahName>Al-Alaq</surahName>
+		<verseCount>19</verseCount>
+		<englishName>The Clinging Clot, Clot of Blood, The Germ-Cell</englishName>
+		<type>Meccan</type>
+	</surah>
+	<surah>
+		<surahName>Al-Qadr</surahName>
+		<verseCount>5</verseCount>
+		<englishName>The Night of Honor, The Night of Decree, Power, Fate, Destiny</englishName>
+		<type>Meccan</type>
+	</surah>
+	<surah>
+		<surahName>Al-Bayyina</surahName>
+		<verseCount>8</verseCount>
+		<englishName>The Clear Evidence, The Evidence of the Truth</englishName>
+		<type>Medinan</type>
+	</surah>
+	<surah>
+		<surahName>Az-Zalzala</surahName>
+		<verseCount>8</verseCount>
+		<englishName>The Earthquake</englishName>
+		<type>Medinan</type>
+	</surah>
+	<surah>
+		<surahName>Al-Adiyat</surahName>
+		<verseCount>11</verseCount>
+		<englishName>The Courser, The Chargers, The War Horse</englishName>
+		<type>Meccan</type>
+	</surah>
+	<surah>
+		<surahName>Al-Qaria</surahName>
+		<verseCount>11</verseCount>
+		<englishName>The Striking Hour, The Great Calamity, The Stunning Blow, The Sudden Calamity</englishName>
+		<type>Meccan</type>
+	</surah>
+	<surah>
+		<surahName>At-Takathur</surahName>
+		<verseCount>8</verseCount>
+		<englishName>The Piling Up, Rivalry in World Increase, Competition, Greed for More and More</englishName>
+		<type>Meccan</type>
+	</surah>
+	<surah>
+		<surahName>Al-Asr</surahName>
+		<verseCount>3</verseCount>
+		<englishName>The Time, The Declining Day, The Epoch, The Flight of Time</englishName>
+		<type>Meccan</type>
+	</surah>
+	<surah>
+		<surahName>Al-Humaza</surahName>
+		<verseCount>9</verseCount>
+		<englishName>The Scandalmonger, The Traducer, The Gossipmonger, The Slanderer</englishName>
+		<type>Meccan</type>
+	</surah>
+	<surah>
+		<surahName>Al-Fil</surahName>
+		<verseCount>5</verseCount>
+		<englishName>The Elephant</englishName>
+		<type>Meccan</type>
+	</surah>
+	<surah>
+		<surahName>Quraysh</surahName>
+		<verseCount>4</verseCount>
+		<englishName>Quraysh</englishName>
+		<type>Meccan</type>
+	</surah>
+	<surah>
+		<surahName>Al-Ma'un</surahName>
+		<verseCount>7</verseCount>
+		<englishName>The Neighbourly Assistance, Small Kindnesses, Almsgiving, Assistance</englishName>
+		<type>Meccan</type>
+	</surah>
+	<surah>
+		<surahName>Al-Kawthar</surahName>
+		<verseCount>3</verseCount>
+		<englishName>Abundance, Plenty, Good in Abundance</englishName>
+		<type>Meccan</type>
+	</surah>
+	<surah>
+		<surahName>Al-Kafirun</surahName>
+		<verseCount>6</verseCount>
+		<englishName>The Disbelievers, The Kafirs, Those Who Deny the Truth</englishName>
+		<type>Meccan</type>
+	</surah>
+	<surah>
+		<surahName>An-Nasr</surahName>
+		<verseCount>3</verseCount>
+		<englishName>The Help, Divine Support, Victory, Succour</englishName>
+		<type>Medinan</type>
+	</surah>
+	<surah>
+		<surahName>Al-Masadd</surahName>
+		<verseCount>5</verseCount>
+		<englishName>The Plaited Rope, The Palm Fibre, The Twisted Strands</englishName>
+		<type>Meccan</type>
+	</surah>
+	<surah>
+		<surahName>Al-Ikhlas</surahName>
+		<verseCount>4</verseCount>
+		<englishName>Purity of Faith, The Fidelity, The Declaration of [God's] Perfection</englishName>
+		<type>Meccan</type>
+	</surah>
+	<surah>
+		<surahName>Al-Falaq</surahName>
+		<verseCount>5</verseCount>
+		<englishName>The Daybreak, Dawn, The Rising Dawn</englishName>
+		<type>Meccan</type>
+	</surah>
+	<surah>
+		<surahName>Al-Nas</surahName>
+		<verseCount>6</verseCount>
+		<englishName>Mankind, Men</englishName>
+		<type>Meccan</type>
+	</surah>
+</quran>

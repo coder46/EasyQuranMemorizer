@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">Easy Quran Memorizer</string>
+    <string name="inital_Time">0</string>
+    <string name="cancel">Cancel</string>
+
+</resources>
